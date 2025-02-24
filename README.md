@@ -1,96 +1,85 @@
----
-name: Ngoc Le
-header:
-  - text: |
-      <span style="font-size: 1.2em; font-weight: bold;">Applying for: React Native Developer</span>
-  - text: <span class="iconify" data-icon="tabler:phone"></span> (+84) 358630797 
-    newLine: true
-  - text: <span class="iconify" data-icon="tabler:mail"></span> ngocdevv@gmail.com
-    link: mailto:ngocdevv@gmail.com
-  - text: <span class="iconify" data-icon="tabler:brand-github"></span> Ngoc Le
-    link: https://github.com/s3079
-  - text: <span class="iconify" data-icon="charm:person"></span> ngoclee.dev
-    link: https://www.ngoclee.dev/
+# Ngoc Le
+
+**Applying for: React Native Developer**  
+<span class="iconify" data-icon="tabler:phone"></span> (+84) 358630797  
+<span class="iconify" data-icon="tabler:mail"></span> [ngocdevv@gmail.com](mailto:ngocdevv@gmail.com)  
+<span class="iconify" data-icon="tabler:brand-github"></span> [Ngoc Le](https://github.com/s3079)  
+<span class="iconify" data-icon="charm:person"></span> [ngoclee.dev](https://www.ngoclee.dev/)
+
 ---
 
 ## Summary
 
-Results-driven React Native Developer with over 5 year of experience in building and optimizing mobile applications for iOS and Android. 
-With a strong ability to deliver complex, reusable UI components, integrate APIs, and enhance app performance. 
-Adept at collaborating with cross-functional teams, including UI/UX designers and backend developers, to implement scalable features.
-Skilled in debugging, code refactoring, and writing unit tests to ensure reliability and maintainability. 
-Ccontributing to efficient workflows and innovative solutions in fast-paced tech environments.
+Results-driven React Native Developer with over 5 years of experience in building and optimizing mobile applications for iOS and Android. With a strong ability to deliver complex, reusable UI components, integrate APIs, and enhance app performance. Adept at collaborating with cross-functional teams, including UI/UX designers and backend developers, to implement scalable features. Skilled in debugging, code refactoring, and writing unit tests to ensure reliability and maintainability. Contributing to efficient workflows and innovative solutions in fast-paced tech environments.
+
+---
 
 ## Education
 
-**University of Information Technology**
-  ~ Ho Chi Minh City
+**University of Information Technology**  
+*Ho Chi Minh City*  
+Computer Science  
 
-Computer Science
-
+---
 
 ## Experience
 
-**IMS solution Co.LTD**
-  ~ React Native Developer, UI/UX Designer
-  ~ 08/2020 - 08/2021
+**IMS Solution Co., LTD**  
+*React Native Developer, UI/UX Designer*  
+*08/2020 - 08/2021*  
+- Built components based on designs.
+- Fetched and displayed data from backend APIs.
+- Learned to optimize app speed under guidance.
+- Updated or refactored code for new requirements.
+- Assisted with basic code reviews and cross-team coordination.
+- Supported customers to edit features.
 
-- Build components based on designs.
-- Fetch and display data from backend APIs.
-- Learn to optimize app speed under guidance.
-- Update or refactor code for new requirements.
-- Assist with basic code reviews and cross-team coordination.
-- Support customers to edit features.
+**NorthStudio TTAS., JSC**  
+*React Native Developer*  
+*09/2021 - Present*  
+- Crafted complex, reusable components and polished interfaces based on designs.
+- Wrote unit tests, performed thorough debugging, and resolved moderate to complex bugs.
+- Identified and fixed performance bottlenecks.
+- Led the implementation of new app features, from planning to deployment.
+- Reviewed junior developers' code, shared knowledge, and coordinated with cross-functional teams.
+- Deployed apps to Apple Store and Play Store.
 
-
-**NorthStudio TTAS., JSC**
-  ~ React Native Developer
-  ~ 09/2021 - Present
-
-- Craft complex, reusable components and polished interfaces based on designs.
-- Write unit tests, perform thorough debugging, and resolve moderate to complex bugs.
-- Identify and fix performance bottlenecks.
-- Lead the implementation of new app features, from planning to deployment.
-- Review junior developers code, share knowledge, and coordinate with cross-functional teams.
-- Deploy apps to Apple Store and Play Store
-
+---
 
 ## Projects
 
-**Điện tử tương lai**
-  ~ IMS solution Co.LTD
+**Điện tử tương lai**  
+*IMS Solution Co., LTD*  
+- Platforms: Android, iOS  
 
-Android, Ios
+**MonokaiToolkit**  
+*NorthStudio TTAS., JSC*  
+- Platforms: Android, iOS  
 
-**MonokaiToolkit**
-  ~ NorthStudio TTAS., JSC
+**SoundSpace/U2Music**  
+*NorthStudio TTAS., JSC*  
+- Platforms: Android, iOS  
 
-Android, Ios
-
-**SoundSpace/U2Music**
-  ~ NorthStudio TTAS., JSC
-
-Android, Ios
-
-
-
-
+---
 
 ## Awards and Honors
 
-**U2U**, Best Employee Of The Year Awards
-  ~ 2023
+**U2U Best Employee of the Year Award**  
+*2023*
 
-
+---
 
 ## Skills
 
-**Programming Languages:** <span class="iconify" data-icon="vscode-icons:file-type-js-official"></span> Javascript / <span class="iconify" data-icon="vscode-icons:file-type-typescript-official"></span> TypeScript.
+- **Programming Languages:**  
+  Javascript <span class="iconify" data-icon="vscode-icons:file-type-js-official"></span> / TypeScript <span class="iconify" data-icon="vscode-icons:file-type-typescript-official"></span>  
+- **Frameworks and Tools:**  
+  React Native <span class="iconify" data-icon="logos:react"></span>, WebStorm <span class="iconify" data-icon="vscode-icons:file-type-webstorm"></span>, VS Code <span class="iconify" data-icon="vscode-icons:file-type-vscode"></span>, Android Studio <span class="iconify" data-icon="logos:android-studio"></span>, Xcode <span class="iconify" data-icon="logos:xcode"></span>, Git <span class="iconify" data-icon="mdi:git"></span>, Jira <span class="iconify" data-icon="logos:jira"></span>, Figma <span class="iconify" data-icon="logos:figma"></span>, Illustrator <span class="iconify" data-icon="logos:adobe-illustrator"></span>, Photoshop <span class="iconify" data-icon="logos:adobe-photoshop"></span>  
+- **Languages:** English (working knowledge)
 
-**Frameworks and Tools:** <span class="iconify" data-icon="logos:react"></span> React Native, <span class="iconify" data-icon="vscode-icons:file-type-webstorm"></span> WebStorm, <span class="iconify" data-icon="vscode-icons:file-type-vscode"></span> VS Code, <span class="iconify" data-icon="logos:android-studio"></span> Android Studio, <span class="iconify" data-icon="logos:xcode"></span> Xcode, <span class="iconify" data-icon="mdi:git"></span> Git, <span class="iconify" data-icon="logos:jira"></span> Jira, <span class="iconify" data-icon="logos:figma"></span> Figma, <span class="iconify" data-icon="logos:adobe-illustrator"></span> Illustrator, <span class="iconify" data-icon="logos:adobe-photoshop"></span> Photoshop.
-
-**Languages:** English (working knowledge).
+---
 
 ## Hobbies
-- Football, Badminton
 
+- Football  
+- Badminton
