@@ -3,7 +3,7 @@
 **Applying for: React Native Developer**  
 <span class="iconify" data-icon="tabler:phone"></span> (+84) 358630797  
 <span class="iconify" data-icon="tabler:mail"></span> [ngocdevv@gmail.com](mailto:ngocdevv@gmail.com)  
-<span class="iconify" data-icon="tabler:brand-github"></span> [Ngoc Le](https://github.com/s3079)  
+<span class="iconify" data-icon="tabler:brand-github"></span> [Ngoc Le](https://github.com/ngocdevv)  
 <span class="iconify" data-icon="charm:person"></span> [ngoclee.dev](https://www.ngoclee.dev/)
 
 ---
